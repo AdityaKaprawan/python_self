@@ -8,3 +8,5 @@ txt=f"for only {price:.2f}  dollars!"
 
 #print(txt.format(price=49.34232))
 print(txt)
+dob= "02/02/02"
+print(f"my date of birth is {dob} and agian my name is {name}")
